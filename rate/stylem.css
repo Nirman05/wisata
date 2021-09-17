@@ -1,0 +1,24 @@
+
+.rating-box{
+	background-color: #fff;
+	
+}
+
+.rating h1{
+	margin:0 0 10px;
+	font-size: 20px;
+}
+.rating-box .ratings .fa{
+  font-size: 20px;
+  color:#FF9800;
+  cursor: pointer;
+}
+
+.rating-box input{
+	margin-top: 20px;
+	font-size:20px;
+	padding:6px 12px;
+}
+
+ 
+

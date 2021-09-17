@@ -1,0 +1,25 @@
+
+
+.nav2{
+	box-shadow: 4;
+}
+
+.navbar-nav .dropdown-menu {
+	position: absolute;
+	background-color: #DCDCDC;
+}
+.dropdown-menu .sub-menu{
+	left: 100;
+	position: absolute;
+	top: 0;
+	visibility: hidden;
+	
+}
+.dropdown-menu li:hover .sub-menu {
+	visibility: visible;
+}
+.dropdown:hover .dropdown-menu{
+	display: block;
+}
+
+
